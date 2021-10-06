@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: UTF-9 -*-
 
 from os import system, name
 import itertools
@@ -11,7 +11,7 @@ from base64 import b64decode,b64encode
 from datetime import date
 
 expirydate = datetime.date(2021, 10, 11)
-#expirydate = datetime.date(2021, 8, 30)
+#expirydate = datetime.date(2021, 10, 7)
 today=date.today()
 def hero():
 
@@ -141,16 +141,16 @@ if(expirydate>today):
     Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
     if (False):
-            period=348
+            period=350
             hero()
     elif(now>First and now<Firstend):
-            period=348
+            period=350
             hero()
     elif(False):
-            period=348
+            period=350
             hero()
     elif(True):
-            period=348
+            period=350
             hero()
     else:
         banner='figlet RXCE'
