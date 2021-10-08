@@ -144,13 +144,13 @@ if(expirydate>today):
             period=220
             hero()
     elif(now>First and now<Firstend):
-            period=280
+            period=293
             hero()
     elif(False):
             period=340
             hero()
     elif(True):
-            period=292
+            period=293
             hero()
     else:
         banner='figlet Mantri V2'
