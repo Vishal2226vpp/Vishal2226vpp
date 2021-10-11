@@ -10,8 +10,8 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2021, 10, 11)
-#expirydate = datetime.date(2021, 10, 7)
+expirydate = datetime.date(2021, 12, 11)
+#expirydate = datetime.date(2021, 12, 7)
 today=date.today()
 def hero():
 
@@ -78,7 +78,7 @@ def hero():
         current=int(current)
         chalo()
         print("\n---------Successfully hacked the server-----------")
-        chalo1()
+        chalo1()n
         print("\n---------Successfully got the colour -------------")
         print('\n')
         def getSum(n):
