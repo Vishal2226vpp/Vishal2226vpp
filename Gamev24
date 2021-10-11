@@ -78,7 +78,7 @@ def hero():
         current=int(current)
         chalo()
         print("\n---------Successfully hacked the server-----------")
-        chalo1()n
+        chalo1()
         print("\n---------Successfully got the colour -------------")
         print('\n')
         def getSum(n):
