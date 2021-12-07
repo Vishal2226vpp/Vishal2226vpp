@@ -141,16 +141,16 @@ if(expirydate>today):
     Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
     if (False):
-            period=220
+            period=385
             hero()
     elif(now>First and now<Firstend):
-            period=220
+            period=385
             hero()
     elif(False):
-            period=220
+            period=385
             hero()
     elif(True):
-            period=220
+            period=385
             hero()
     else:
         banner='figlet RXCE V2'
