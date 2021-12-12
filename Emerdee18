@@ -10,8 +10,8 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2021, 10, 12)
-#expirydate = datetime.date(2021, 8, 30)
+expirydate = datetime.date(2022, 10, 12)
+#expirydate = datetime.date(2022, 8, 30)
 today=date.today()
 def hero():
 
@@ -150,7 +150,7 @@ if(expirydate>today):
             period=280
             hero()
     elif(True):
-            period=313
+            period=314
             hero()
     else:
         banner='figlet RXCE'
