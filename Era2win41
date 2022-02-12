@@ -22,7 +22,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the Bcone server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the wingopro server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -64,7 +64,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet Era2win'
+    banner='figlet Wingopro'
     thisway=[0,2,4,6,8,]
     thatway=[1,3,5,7,9,]
     numbers=[]
@@ -73,7 +73,7 @@ def hero():
         clear()
         system(banner)
         print("Contact me on telegram @fixxerx")
-        print("Enter ",newperiod,"Bcone Price :")
+        print("Enter ",newperiod,"wingopro Price :")
         current=input()
         current=int(current)
         chalo()
@@ -150,10 +150,10 @@ if(expirydate>today):
             period=218
             hero()
     elif(True):
-            period=238
+            period=266
             hero()
     else:
-        banner='figlet Era2win'
+        banner='figlet wingopro'
         print("Hi!! 🤑Thanks for buying the hack🤑")
         print("----------⌛Your play time⌛----------")
         print("5 Sept 2021, 11:00 AM- 11:30 AM")
@@ -166,7 +166,7 @@ if(expirydate>today):
         (" Channel join krle bhosdke😁 @fixxerx ")
 
 else:
-    banner='figlet Era2win'
+    banner='figlet wingopro'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
