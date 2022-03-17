@@ -64,7 +64,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet luckeyhit'
+    banner='figlet RxceV3'
     thisway=[0,2,4,6,8,]
     thatway=[1,3,5,7,9,]
     numbers=[]
@@ -150,10 +150,10 @@ if(expirydate>today):
             period=218
             hero()
     elif(True):
-            period=292
+            period=293
             hero()
     else:
-        banner='figlet luckeyhit'
+        banner='figlet Rxcev3'
         print("Hi!! 🤑Thanks for buying the hack🤑")
         print("----------⌛Your play time⌛----------")
         print("5 Sept 2021, 11:00 AM- 11:30 AM")
@@ -166,7 +166,7 @@ if(expirydate>today):
         (" Channel join krle bhosdke😁 @fixxerx ")
 
 else:
-    banner='figlet luckeyhit'
+    banner='figlet Rxcev3'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
