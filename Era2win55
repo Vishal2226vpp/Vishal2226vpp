@@ -22,7 +22,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the malamaal7 server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the luckeyhitV4 server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -72,8 +72,8 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print("Contact me on telegram @fixxerx")
-        print("Enter ",newperiod,"luckeyhit Price :")
+        print("Contact me on telegram @Hacker@2226")
+        print("Enter ",newperiod,"luckeyhitV4 Price :")
         current=input()
         current=int(current)
         chalo()
@@ -153,7 +153,7 @@ if(expirydate>today):
             period=941
             hero()
     else:
-        banner='figlet malamaal7'
+        banner='figlet luckeyhitV4'
         print("Hi!! 🤑Thanks for buying the hack🤑")
         print("----------⌛Your play time⌛----------")
         print("5 Sept 2021, 11:00 AM- 11:30 AM")
@@ -162,15 +162,15 @@ if(expirydate>today):
         #print("5 Sept 2021, 06:37 PM- 08:30 AM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @fixxerx ")
-        (" Channel join krle bhosdke😁 @fixxerx ")
+        print(" admin on telegram @Hacker@2226 ")
+        (" Channel join krle bhosdke😁 @Hacker@2226 ")
 
 else:
-    banner='figlet malamaal7'
+    banner='figlet luckeyhitV4'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@fixxerx for activating")
+    print(" on telegram ----@Hacker@2226 for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     1000 INR -------  7 Day (280 Games")
     print(" 2.     3000 INR -------  30 Days(1200 Games")
