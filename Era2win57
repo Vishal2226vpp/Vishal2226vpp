@@ -22,7 +22,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the luckeyhitV4 server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the Mantrimallgame server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -73,7 +73,7 @@ def hero():
         clear()
         system(banner)
         print("Contact me on telegram @Hacker@2226")
-        print("Enter ",newperiod,"luckeyhitV4 Price :")
+        print("Enter ",newperiod,"Mantrimallgame Price :")
         current=input()
         current=int(current)
         chalo()
@@ -123,7 +123,7 @@ def hero():
             system('figlet Thank you🤑!!')
             print("Play on next specified time🤑!!")
             print("-----------⏱️Current Time UP⏱️----------")
-            sys.exit(" \n \n \n Contact on Telegram @fixxerx")
+            sys.exit(" \n \n \n Contact on Telegram @")
             #print(numbers)
   
 
@@ -150,10 +150,10 @@ if(expirydate>today):
             period=218
             hero()
     elif(True):
-            period=770
+            period=709
             hero()
     else:
-        banner='figlet luckeyhitV4'
+        banner='figlet Mantrimallgame'
         print("Hi!! 🤑Thanks for buying the hack🤑")
         print("----------⌛Your play time⌛----------")
         print("5 Sept 2021, 11:00 AM- 11:30 AM")
@@ -166,7 +166,7 @@ if(expirydate>today):
         (" Channel join krle bhosdke😁 @Hacker@2226 ")
 
 else:
-    banner='figlet luckeyhitV4'
+    banner='figlet Mantrimallgame'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
