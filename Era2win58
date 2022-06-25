@@ -64,7 +64,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet malamaal7'
+    banner='figlet Mantrimallgame'
     thisway=[0,2,4,6,8,]
     thatway=[1,3,5,7,9,]
     numbers=[]
