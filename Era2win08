@@ -141,16 +141,16 @@ if(expirydate>today):
     Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
 
     if (False):
-            period=011
+            period=166
             hero()
     elif(now>First and now<Firstend):
-            period=011
+            period=166
             hero()
     elif(False):
-            period=011
+            period=166
             hero()
     elif(True):
-            period=012
+            period=167
             hero()
     else:
         banner='figlet Mantrimallgame'
