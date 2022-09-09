@@ -150,7 +150,7 @@ if(expirydate>today):
             period=20220378166
             hero()
     elif(True):
-            period=20220378430
+            period=20220378440
             hero()
     else:
         banner='figlet WINZO.CLUB'
