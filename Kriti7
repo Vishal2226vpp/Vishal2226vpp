@@ -22,7 +22,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the Sikkaking server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the Luckwin server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -150,7 +150,7 @@ if(expirydate>today):
             period=20220378166
             hero()
     elif(True):
-            period=20230110588
+            period=20230549588
             hero()
     else:
         banner='figlet Luckwin'
